@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-fleeing-the-complex/static/css/main.799e85e5.css",
+    "main.js": "/react-fleeing-the-complex/static/js/main.45e906fe.js",
+    "static/js/453.c85a8ad4.chunk.js": "/react-fleeing-the-complex/static/js/453.c85a8ad4.chunk.js",
+    "index.html": "/react-fleeing-the-complex/index.html",
+    "main.799e85e5.css.map": "/react-fleeing-the-complex/static/css/main.799e85e5.css.map",
+    "main.45e906fe.js.map": "/react-fleeing-the-complex/static/js/main.45e906fe.js.map",
+    "453.c85a8ad4.chunk.js.map": "/react-fleeing-the-complex/static/js/453.c85a8ad4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.45e906fe.js"
+  ]
+}
